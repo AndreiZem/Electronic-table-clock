@@ -6,4 +6,4 @@ Electronic table clock
 2) (hours minutes seconds) + animation
 3) month, day, weekday  
 
- ![](tm.png)
+ ![](tm.gif)
